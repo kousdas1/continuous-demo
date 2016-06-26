@@ -100,4 +100,17 @@
             </plugin>
         </plugins>
     </build>
+    <repositories>
+        <repository>
+          <id>OracleCloud</id>
+          <url>https://developer.us2.oraclecloud.com/profile/developer77929-oucloudusa1/s/developer77929-oucloudusa1_passdemo/maven/</url>
+          <layout>default</layout>
+        </repository>
+      </repositories>
+      <pluginRepositories>
+        <pluginRepository>
+          <id>OracleCloud</id>
+          <url>https://developer.us2.oraclecloud.com/profile/developer77929-oucloudusa1/s/developer77929-oucloudusa1_passdemo/maven/</url>    
+        </pluginRepository>
+      </pluginRepositories>
 </project>
